@@ -1,0 +1,14 @@
+layout_spectrum: 0.3168260450474918
+typography_spectrum: 0.44928990793414414
+color:
+  brandStrength: 0.6016961487475783
+  lightness: 0.4964082515798509
+  saturation: 0.23817407945170999
+  rhythmicContrast: 0.14658354502171278
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: shanai
